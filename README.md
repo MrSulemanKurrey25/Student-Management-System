@@ -1,5 +1,4 @@
-Student Management System in C
-
+# Student Management System in C
 
 📖 Overview
 The Student Management System is a lightweight, console-based application designed to manage student academic data efficiently. This project was developed as a foundational exercise in C programming, focusing on data structure organization and persistent file storage. By utilizing file streams, the application allows users to create, read, and search for records, ensuring data remains available even after the application is terminated.
