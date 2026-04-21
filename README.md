@@ -1,9 +1,9 @@
 # Student Management System in C
 
-📖 Overview
+# 📖 Overview
 The Student Management System is a lightweight, console-based application designed to manage student academic data efficiently. This project was developed as a foundational exercise in C programming, focusing on data structure organization and persistent file storage. By utilizing file streams, the application allows users to create, read, and search for records, ensuring data remains available even after the application is terminated.
 
-🛠 Technical Stack
+# 🛠 Technical Stack
 Language: C (C99 standard or higher)
 
 Core Concepts: * struct (Data Encapsulation)
@@ -14,7 +14,7 @@ Switch-Case (Control Flow)
 
 Modular Programming (Functions)
 
-🚀 Key Features
+# 🚀 Key Features
 1. Data Persistence
 Unlike programs that store data in volatile memory (RAM), this system saves all student information into a local students.txt file. This means your data survives system restarts.
 
@@ -24,7 +24,7 @@ The system uses standard output formatting (\t tab characters) to present data i
 3. Efficient Searching
 The search algorithm performs a sequential scan of the text file. It parses the stored strings and integers, compares them against user input, and returns specific details immediately upon a successful match.
 
-⚙️ How to Build and Run
+# ⚙️ How to Build and Run
 
  Prerequisites
 
@@ -33,7 +33,7 @@ The search algorithm performs a sequential scan of the text file. It parses the 
 
 2. Terminal or Command Prompt access.
 
-💡 Future Enhancements
+# 💡 Future Enhancements
 
 This project serves as a starting point. Possible areas for further development include:
 
